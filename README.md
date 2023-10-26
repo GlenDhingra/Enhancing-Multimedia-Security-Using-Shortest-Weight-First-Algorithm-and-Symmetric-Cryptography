@@ -17,15 +17,15 @@ The image encryption method is fully implemented in Python, a widely-used and ve
 
 a) Original Image
 
-<img width="300" src="test_1.jpg" alt="Glen Dhingra Image">
+<img width="300" src="All Files/test_1.jpg" alt="Glen Dhingra Image">
 
 b) Encrypted Image
 
-<img width="300" src="Encrypted.png" alt="Glen Dhingra Image">
+<img width="300" src="All Files/Encrypted.png" alt="Glen Dhingra Image">
 
 c) Decrypted Image
 
-<img width="300" src="test_1.jpg" alt="Glen Dhingra Image">
+<img width="300" src="All Files/test_1.jpg" alt="Glen Dhingra Image">
 
 ### Technical Paper
 
